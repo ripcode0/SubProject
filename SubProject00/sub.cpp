@@ -2,5 +2,5 @@
 
 std::string GetSubName()
 {
-    return "i am a sub";
+    return "sub version : 0.0";
 }
