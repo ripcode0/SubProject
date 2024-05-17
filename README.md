@@ -1,0 +1,2 @@
+# SubProject
+ test git submodule
